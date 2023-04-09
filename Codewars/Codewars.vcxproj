@@ -20,10 +20,12 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="PhoneNumberCreator.cpp" />
     <ClCompile Include="RemoveTheMinimum.cpp" />
     <ClCompile Include="NewString.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="PhoneNumberCreator.h" />
     <ClInclude Include="RemoveTheMinimum.h" />
     <ClInclude Include="NewString.h" />
   </ItemGroup>

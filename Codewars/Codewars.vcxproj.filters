@@ -24,12 +24,18 @@
     <ClCompile Include="NewString.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PhoneNumberCreator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RemoveTheMinimum.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="NewString.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PhoneNumberCreator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
