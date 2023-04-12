@@ -20,14 +20,14 @@
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="PhoneNumberCreator.cpp" />
+    <ClCompile Include="phone_number_creator.cpp" />
     <ClCompile Include="RemoveTheMinimum.cpp" />
-    <ClCompile Include="NewString.cpp" />
+    <ClCompile Include="new_string.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="PhoneNumberCreator.h" />
+    <ClInclude Include="phone_number_creator.h" />
     <ClInclude Include="RemoveTheMinimum.h" />
-    <ClInclude Include="NewString.h" />
+    <ClInclude Include="new_string.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>

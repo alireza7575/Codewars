@@ -21,10 +21,10 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="NewString.cpp">
+    <ClCompile Include="new_string.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="PhoneNumberCreator.cpp">
+    <ClCompile Include="phone_number_creator.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -32,10 +32,10 @@
     <ClInclude Include="RemoveTheMinimum.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="NewString.h">
+    <ClInclude Include="new_string.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="PhoneNumberCreator.h">
+    <ClInclude Include="phone_number_creator.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

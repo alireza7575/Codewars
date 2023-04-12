@@ -35,7 +35,7 @@
   <ItemGroup>
     <ClCompile Include="RemoveTheMinimumTests.cpp" />
     <ClCompile Include="PhoneNumberCreatorTests.cpp" />
-    <ClCompile Include="SplitStringTests.cpp" />
+    <ClCompile Include="new_string_Tests.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Codewars\Codewars.vcxproj">
