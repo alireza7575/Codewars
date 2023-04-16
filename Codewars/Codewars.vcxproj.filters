@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="RemoveTheMinimum.cpp">
+    <ClCompile Include="vector_extensions.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
     <ClCompile Include="main.cpp">
@@ -30,19 +30,8 @@
     <ClCompile Include="rgb_convertor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="RemoveTheMinimum.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="new_string.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="phone_number_creator.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="rgb_convertor.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <ClCompile Include="rot13_cipher.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

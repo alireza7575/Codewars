@@ -1,5 +1,5 @@
+#include "../Codewars/rgb_convertor.cpp"
 #include "gtest/gtest.h"
-#include "../Codewars/RGB_Convertor.cpp"
 
 
 TEST(ConverRgbColorToHex, BlackColor)

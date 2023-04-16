@@ -33,10 +33,11 @@
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros" />
   <ItemGroup>
-    <ClCompile Include="RemoveTheMinimumTests.cpp" />
-    <ClCompile Include="PhoneNumberCreatorTests.cpp" />
-    <ClCompile Include="new_string_Tests.cpp" />
-    <ClCompile Include="RgbConvertorTests.cpp" />
+    <ClCompile Include="rot13_cipher_tests.cpp" />
+    <ClCompile Include="vector_extensions_tests.cpp" />
+    <ClCompile Include="phone_number_creator_tests.cpp" />
+    <ClCompile Include="new_string_tests.cpp" />
+    <ClCompile Include="rgb_convertor_tests.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Codewars\Codewars.vcxproj">

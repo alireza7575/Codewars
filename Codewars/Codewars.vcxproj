@@ -21,15 +21,10 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
     <ClCompile Include="phone_number_creator.cpp" />
-    <ClCompile Include="RemoveTheMinimum.cpp" />
+    <ClCompile Include="rot13_cipher.cpp" />
+    <ClCompile Include="vector_extensions.cpp" />
     <ClCompile Include="new_string.cpp" />
     <ClCompile Include="rgb_convertor.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="phone_number_creator.h" />
-    <ClInclude Include="RemoveTheMinimum.h" />
-    <ClInclude Include="new_string.h" />
-    <ClInclude Include="rgb_convertor.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
