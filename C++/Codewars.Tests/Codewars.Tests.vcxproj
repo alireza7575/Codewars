@@ -40,12 +40,12 @@
     <ClCompile Include="rgb_convertor_tests.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
     <ProjectReference Include="..\Codewars\Codewars.vcxproj">
       <Project>{b200eb2b-85fe-4bf6-9469-22490181b273}</Project>
     </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
-    <None Include="packages.config" />
   </ItemGroup>
   <ItemDefinitionGroup />
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
