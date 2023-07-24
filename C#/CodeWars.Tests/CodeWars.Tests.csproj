@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\CodeWars\CodeWars.csproj" />
+    <ProjectReference Include="..\CodeWars\Codewars.csproj" />
   </ItemGroup>
 
 </Project>

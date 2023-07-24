@@ -1,7 +1,7 @@
 ﻿using System;
 using NUnit.Framework;
 
-namespace CodeWars.Tests;
+namespace Codewars.Tests;
 
 public sealed class ElevatorTests
 {
